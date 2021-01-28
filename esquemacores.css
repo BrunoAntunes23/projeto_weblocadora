@@ -1,0 +1,18 @@
+body{
+    color:darkgray;
+
+}
+#p_error {color: red;}
+
+#tabela_veiculo{
+    width: 300;
+    border: 1;
+
+}
+p {
+    color: yellow;
+    position: relative;
+    width: 3;
+    height: 3;
+    
+}
